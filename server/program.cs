@@ -1,1 +1,3 @@
-﻿Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Привет!");
+Console.WriteLine("ФИО:Хортюнова София Юрьевна");
+ 
